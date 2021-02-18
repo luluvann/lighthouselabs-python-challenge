@@ -1,0 +1,1 @@
+# lighthouselabs-python-challenge
